@@ -4,7 +4,7 @@ using UnityEngine;
 using Photon.Pun;
 using Photon.Realtime;
 
-public class Move1 : MonoBehaviourPunCallbacks
+public class PlayerTwo : MonoBehaviourPunCallbacks
 
 {
     PhotonView view;
